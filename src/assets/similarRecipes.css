@@ -1,0 +1,11 @@
+#similarRecipes{
+    display: flex;
+    justify-content: space-between;
+}
+#similarRecipes .recipe{
+    width: 25%;
+}
+
+#similaRecipes .recipe:hover {
+    background: #ebebeb;
+}

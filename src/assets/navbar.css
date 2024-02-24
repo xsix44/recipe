@@ -1,0 +1,7 @@
+.p-tabmenu-nav, .p-tabmenuitem, .p-menuitem-link {
+   backgronud: var (--primary-color) !important;
+}
+.p-menuitem-text, .p-menuitem-icon {
+    margin: 0.4rem;
+    color:balack;
+}

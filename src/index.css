@@ -1,0 +1,19 @@
+body {
+    margin:0;
+    display: flex;
+    place-items: center;
+}
+ fooer h5, main {
+    margin: 1rem;
+ }
+ footer {
+    width: 100%;
+    background: blueviolet;
+ }
+
+ .p-button {
+   background-color: var(--secondary-color) !important;
+ }
+ .p-togglebutton {
+   color: white !important;
+ }
